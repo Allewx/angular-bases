@@ -1,5 +1,7 @@
 # AlexAngular
 
+BASES DE ANGULAR 2025
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.1.
 
 ## Development server
